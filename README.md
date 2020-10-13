@@ -10,11 +10,11 @@
 ## Sisyema talablari
 - PHP 7.2 versiyasi kerak (7.4 versiyasi maslahat beriladi.)
 - MYSQL versiyasi 5.6
-- .htaccess qo`'llab quvvatlash (Kelajakdagi rejalar uchun
+- .htaccess qo'llab quvvatlash (Kelajakdagi rejalar uchun)
 
 ## O`rnatish
 1. /api/db.php ga DB ma'lumotlar kiritiladi.
 2. SQL faylni DBha joylaysiz.
 3. index.php faylidagi apiUrl ni sayt nomini yozasiz.
 
-#Kelajakda o`shimcha va kamchliklari tuzatiladi
+#Kelajakda qo`shimcha va kamchliklari tuzatiladi
