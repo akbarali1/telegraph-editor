@@ -14,7 +14,7 @@
 
 ## O`rnatish
 1. /api/db.php ga DB ma'lumotlar kiritiladi.
-2. SQL faylni DBha joylaysiz.
+2. SQL faylni DBga joylaysiz.
 3. index.php faylidagi apiUrl ni sayt nomini yozasiz.
 
 #Kelajakda qo`shimcha va kamchliklari tuzatiladi
