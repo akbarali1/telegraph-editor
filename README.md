@@ -1,4 +1,4 @@
-# [Telegraph-editor](https://uzhackersw.uz/modul/telegraph) bu [Telegra.ph]9(https://telegra.ph/)ning php 7.2 - 7.4 da qilingan versiyasi.
+# [Telegraph-editor](https://uzhackersw.uz/modul/telegraph) bu [Telegra.ph](https://telegra.ph/)ning php 7.2 - 7.4 da qilingan versiyasi.
 [![License](https://img.shields.io/badge/license-GPL%20v.3-blue.svg?style=plastic)](https://www.gnu.org/licenses/gpl-3.0-standalone.html)
 
 ## Tizimning imkoniyatlari
