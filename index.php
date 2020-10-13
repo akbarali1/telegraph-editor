@@ -13,8 +13,8 @@
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Telegraph">
     <meta name="twitter:description" content="Telegra.ph is a minimalist publishing tool that allows you to create richly formatted posts and push them to the Web in just a click. Telegraph posts also get beautiful Instant View pages on Telegram.">
-    <link href="./design/quill.core.min.css" rel="stylesheet">
-    <link href="./design/core.min.css" rel="stylesheet">
+    <link href="./design/css/quill.core.min.css" rel="stylesheet">
+    <link href="./design/css/core.min.css" rel="stylesheet">
   </head>
   <body>
     <div class="tl_page_wrap">
@@ -64,12 +64,12 @@
     </div>
     <div id="_tl_alerts" class="tl_alerts"></div>
     <script>var T={"apiUrl":"http:\/\/maqola1.uz/","datetime":0,"pageId":0};(function(){var b=document.querySelector('time');if(b&&T.datetime){var a=new Date(1E3*T.datetime),d='January February March April May June July August September October November December'.split(' ')[a.getMonth()],c=a.getDate();b.innerText=d+' '+(10>c?'0':'')+c+', '+a.getFullYear()}})();</script>
-    <script type="text/javascript" src="./design/jquery.min.js"></script>
-    <script type="text/javascript" src="./design/jquery.selection.min.js"></script>
-    <script type="text/javascript" src="./design/autosize.min.js"></script>
-    <script type="text/javascript" src="./design/load-image.all.min.js"></script>
-    <script type="text/javascript" src="./design/quill.min.js"></script>
-    <script type="text/javascript" src="./design/core.min.js"></script>
+    <script type="text/javascript" src="./design/js/jquery.min.js"></script>
+    <script type="text/javascript" src="./design/js/jquery.selection.min.js"></script>
+    <script type="text/javascript" src="./design/js/autosize.min.js"></script>
+    <script type="text/javascript" src="./design/js/load-image.all.min.js"></script>
+    <script type="text/javascript" src="./design/js/quill.min.js"></script>
+    <script type="text/javascript" src="./design/js/core.min.js"></script>
     <!-- Code injected by live-server -->
     <script type="text/javascript" src="webSocket.js"></script>
 
