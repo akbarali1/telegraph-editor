@@ -16,8 +16,8 @@ if (isset($_POST['author'])) {
     $sql = "INSERT INTO articles (name, author, time, text) VALUES (:name, :author, :time, :text)";
     $stmt = $pdo->prepare($sql);
     $stmt->execute($data);
-    //DB kodlari tugadi
     $articlesid = $pdo->lastInsertId();
+    //DB kodlari tugadi
     $path = 'articles.php?id=' . $articlesid;
     $out = array('success' => $name, 'path' => $path);
     echo json_encode($out);
