@@ -7,7 +7,7 @@
 - Maqolalarga video, rasm, giflarni yuklash
 * Keynroq yana qoshimchalar qo`shiladi!
 
-## Sisyema talablari
+## Sistema talablari
 - PHP 7.2 versiyasi kerak (7.4 versiyasi maslahat beriladi.)
 - MYSQL versiyasi 5.6
 - .htaccess qo'llab quvvatlash (Kelajakdagi rejalar uchun)
