@@ -52,6 +52,7 @@
             </div>
           </div></article>
           
+          
           <aside class="tl_article_buttons">
             <div class="account account_top"></div>
             <button id="_edit_button" class="button edit_button">Edit</button><!--
@@ -65,7 +66,7 @@
 
 
     <div id="_tl_alerts" class="tl_alerts"></div>
-    <script>var T={"apiUrl":"http:\/\/maqolalar.uz/a.json","datetime":0,"pageId":0};(function(){var b=document.querySelector('time');if(b&&T.datetime){var a=new Date(1E3*T.datetime),d='January February March April May June July August September October November December'.split(' ')[a.getMonth()],c=a.getDate();b.innerText=d+' '+(10>c?'0':'')+c+', '+a.getFullYear()}})();</script>
+    <script>var T={"apiUrl":"http:\/\/maqola1.uz/","datetime":0,"pageId":0};(function(){var b=document.querySelector('time');if(b&&T.datetime){var a=new Date(1E3*T.datetime),d='January February March April May June July August September October November December'.split(' ')[a.getMonth()],c=a.getDate();b.innerText=d+' '+(10>c?'0':'')+c+', '+a.getFullYear()}})();</script>
     <script type="text/javascript" src="./design/jquery.min.js"></script>
     <script type="text/javascript" src="./design/jquery.selection.min.js"></script>
     <script type="text/javascript" src="./design/autosize.min.js"></script>
